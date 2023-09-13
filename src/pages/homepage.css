@@ -1,0 +1,314 @@
+.Homi{
+   
+   height: 650px;
+   width: 100;
+   display: flex;
+   background-image: url("https://st4.depositphotos.com/13193658/27823/i/600/depositphotos_278232034-stock-photo-scared-lecturer-suffering-fear-public.jpg");
+   background-repeat: no-repeat;
+   background-size:100vw;
+   
+   
+}
+
+
+.part1{
+   height: 500px;
+   width: 50%;
+   margin-top: 220px;
+   margin-left: 80px;
+   
+}
+
+.part1words h5{
+   margin-left: 40px;
+   font-size: 19px;
+}
+
+.part1words h1{
+   font-size: 55px;
+   
+}
+
+.part1words button{
+     height: 45px;
+     width: 130px;
+     border: none;
+     cursor: pointer;
+}
+
+.part2{
+    height: 500px;
+    width:50%;
+    }
+
+ .content{
+   height: 700px;
+   width: 100%;
+   /* background-color: aqua; */
+   display: flex;
+   margin-top: 45px;
+ }   
+
+  .part3{
+   height:700px ;
+   width: 50%;
+   /* background-color: blue; */
+ }
+
+ .part4{
+   height:700px ;
+   width: 50%;
+   /* background-color: violet; */
+   
+  
+ }
+
+ .part3words{
+   margin-top: 90px;
+   margin-left: 90px;
+ }
+
+ .part3words h1{
+   font-size: 50px;
+ }
+
+ .part4{
+   background-image:url("https://preview.colorlib.com/theme/eventz/assets/img/gallery/about1.png");
+   background-repeat: no-repeat;
+   margin-left: 55px;
+   /* background-color: rgb(17, 36, 52); */
+    }
+
+.part4 img{
+   margin-top: 340px;
+   margin-left: -80px;
+}
+
+.ghost{
+   display: flex;
+   gap: 180px;
+
+}
+
+.part3 button{
+   background-color: #331391;
+    height:55px;
+    width:170px ;
+    font-size: medium;
+    color: white;
+    cursor: pointer;
+    margin-left: 110px; 
+    margin-top: 20px;
+}
+
+.photoframe1{
+   background-color: #6610f2;
+   height: 600px;
+   width:100% ;
+   display: flex;
+   align-items: center;
+   justify-content:space-evenly;
+}
+
+.photo1{
+
+   /* background-color: black; */
+
+}
+
+.photo1 h1{
+   font-size: 40px;
+}
+
+
+.photo1 button{
+   margin-left: 50px;
+   margin-top: 20px;
+}
+
+.photo1 button{
+   height: 60px;
+   width: 150px;
+}
+
+.photo2{
+   display:flex ;
+   align-items: center;
+   gap: 20px;
+   /* background-color: blue; */
+}
+
+
+.photo3{
+   height: 600px;
+   width: 100%;
+   /* background-color: antiquewhite; */
+
+}
+
+.photoframe2{
+   background-color:#6610f2 ;
+   height: 400px;
+   width:100% ;
+   display: flex;
+   gap:94px;
+   /* align-items: center; */
+   justify-content: center;
+}
+
+.event{
+   height: 600px;
+   width: 100%;
+   background-color: white;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   }
+
+ .event h1{
+   font-size: 50px;
+ }  
+
+ .event span{
+   font-size: 20px;
+ }
+
+ .event button{
+   height:100px ;
+   width: 250px;
+   margin-top: 60px;
+   font-size: 20px;
+   font-weight: bold;
+   border: none;
+   cursor: pointer;
+   color: #331391;
+   /* display: block; */
+   
+ }
+
+.event button:hover{
+   background-color: #331391;
+   color: white;
+}
+
+.time{
+   height: 400px;
+   width: 100%;
+   /* margin-left: 100px; */
+   /* margin-bottom: 120px; */
+   /* padding: 80px; */
+   
+}
+
+.time h5{
+   font-size: 20px;
+   color:#331391;
+}
+
+.time span{
+   font-size: 20px;
+}
+
+.time p{
+   opacity: 0.6;
+}
+
+.speech{
+   height: 600px;
+   width: 100%;
+   background-color: blue;
+   display: flex;
+}
+
+.spe1{
+   height: 600px;
+   width: 50%;
+   /* background-color: red; */
+   /* background-image: url("https://media.istockphoto.com/id/1226991719/photo/startup-ceo-and-hardware-engineer-present-new-product-speakers-lead-lecture-on-business.jpg?s=612x612&w=0&k=20&c=6sCXhnW60xpf_XHG3X8FJEWIEEtVGNbjSlN9roGxktw="); */
+   /* background-repeat: no-repeat; */
+}
+
+.spe2{
+   height: 600px;
+   width: 50%;
+   /* background-color:purple; */
+   /* background-image: url("https://www.istockphoto.com/photo/businesswoman-standing-at-podium-gm1286013189-382651374?phrase=speech%20auditorium"); */
+}
+
+.speech2{
+   height: 600px;
+   width: 100%;
+   background-color: #6610f2;
+   display: flex;
+   /* justify-content: flex-start; */
+}
+
+.spe3{
+   height: 600px;
+   width: 50%;
+   /* background-color: #6610f2; */
+}
+
+.spe4{
+   height: 600px;
+   width: 25%;
+   /* background-color: aqua; */
+
+}
+
+.spe5{
+   height: 600px;
+   width: 25%;
+   /* background-color: chartreuse; */
+}
+
+.comp{
+   height: 500px;
+   width: 100%;
+   /* background-color: #6610f2; */
+   /* margin-top: 40px; */
+   background-color: #331391;
+   display: flex;
+   /* padding: 20px; */
+   /* display: flex; */
+}
+
+.comp1{
+    height: 500px;
+    width: 40%;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin-top: 40px; */
+}
+
+.comp h1{
+   color: white;
+   font-size: 45px;
+}
+
+.comp span{
+   font-size: 20px;
+   color: white;
+}
+
+.comp2{
+     height: 500px;
+     width: 60%;
+     /* background-color: aqua; */
+     display: flex;
+     justify-content: space-around;
+     flex-wrap: wrap;
+     gap: 30px;
+     /* padding: 20px; */
+     /* align-items: center; */
+     justify-content: center;
+     column-gap: 20px;
+     align-content: center;
+
+}
+ 
+ 

@@ -1,0 +1,28 @@
+.pro-cardMain{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.pro-cardMain img{
+    width: 200px;
+    height: auto;
+}
+
+
+.pro-cardMain h3{
+    color: #fff;
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 16px 0px 6px 0px;
+}
+
+.pro-cardMain span{
+    font-family: "Roboto",sans-serif;
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+    margin-bottom: 15px;
+    font-weight: normal;
+}

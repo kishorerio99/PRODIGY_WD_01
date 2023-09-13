@@ -1,0 +1,11 @@
+.prof{
+    /* color: aqua; */
+   
+}
+
+.prof img{
+     height: 110px;
+    width: auto; 
+    display: flex;
+    flex-direction: row;
+}
